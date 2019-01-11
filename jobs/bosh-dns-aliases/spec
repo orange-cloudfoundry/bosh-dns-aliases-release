@@ -22,3 +22,4 @@ properties:
         deployment: cf_123
         network: default
         domain: bosh
+      - "127.0.0.1"
